@@ -1,3 +1,4 @@
+.gitignore
 test-dog/
 test-results/
 out.log
